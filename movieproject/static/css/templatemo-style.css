@@ -1,0 +1,17 @@
+body{
+    background-color:#0c171de0;
+}
+.form_add{
+text-align: center;
+    font-size: 144%;
+    width: 72%;
+    padding: 50px 509px;
+}
+.add-item{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 90%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
